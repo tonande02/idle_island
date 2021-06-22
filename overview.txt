@@ -1,0 +1,14 @@
+A simple idle game
+
+- The player creates and names their character
+    - Character class
+    - Save file format
+    - Load save file
+    - Welcome screen for character creation / load
+
+
+- The player can perform various skills
+- Each skill action grants xp in that skill
+- With x amount of xp, the player gains a level in that skill
+- When away from the game, the player idles in their last performed skill
+- Idling grants 50% of the xp in that skill
